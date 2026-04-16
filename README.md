@@ -26,3 +26,5 @@ The model is fully classical, requires no quantum coherence, and operates effici
 git clone https://github.com/YOURNAME/Universal-Density-MA-Model.git
 cd code
 python DensityMA_OS_v13.5.py
+Zenodo (citable DOI) → https://doi.org/10.5281/zenodo.19600771
+All code, figures, and supplementary materials are open and immediately testable.
